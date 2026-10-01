@@ -2,6 +2,66 @@
 
 把你的原图做成东方幻想游戏概念海报：尽量保留画面主体与构图，加入书法标题、极简英文、小型印章与专业信息排版。
 
+## 效果展示
+
+以下四组来自实际使用示例：以原图为基础，完成标题设计、调色与信息排版。
+
+### 冷色云海
+
+![冷色云海：使用国风海报 Skill 后的效果](assets/examples/cloud-palace-after.png)
+
+### 巨门城阙
+
+![巨门城阙：使用国风海报 Skill 后的效果](assets/examples/celestial-gate-after.png)
+
+### 暖色殿宇
+
+![暖色殿宇：使用国风海报 Skill 后的效果](assets/examples/warm-temple-after.png)
+
+### 桥廊山境
+
+![桥廊山境：使用国风海报 Skill 后的效果](assets/examples/mountain-bridge-after.png)
+
+## 原图与效果对比
+
+展开查看同一场景的原图与海报效果，点击图片可查看大图。
+
+<details>
+<summary>01 · 冷色云海</summary>
+
+| 原图 | 使用 Skill 后 |
+| --- | --- |
+| ![冷色云海原图](assets/examples/cloud-palace-before.png) | ![冷色云海海报效果](assets/examples/cloud-palace-after.png) |
+
+</details>
+
+<details>
+<summary>02 · 巨门城阙</summary>
+
+| 原图 | 使用 Skill 后 |
+| --- | --- |
+| ![巨门城阙原图](assets/examples/celestial-gate-before.png) | ![巨门城阙海报效果](assets/examples/celestial-gate-after.png) |
+
+</details>
+
+<details>
+<summary>03 · 暖色殿宇</summary>
+
+| 原图 | 使用 Skill 后 |
+| --- | --- |
+| ![暖色殿宇原图](assets/examples/warm-temple-before.png) | ![暖色殿宇海报效果](assets/examples/warm-temple-after.png) |
+
+</details>
+
+<details>
+<summary>04 · 桥廊山境</summary>
+
+| 原图 | 使用 Skill 后 |
+| --- | --- |
+| ![桥廊山境原图](assets/examples/mountain-bridge-before.png) | ![桥廊山境海报效果](assets/examples/mountain-bridge-after.png) |
+
+</details>
+
 ## 适合什么画面
 
 东方幻想、武侠、修仙题材的角色图、建筑图、场景原画，以及希望呈现游戏世界观宣传视觉的图片。
@@ -26,5 +86,6 @@
 
 - `SKILL.md`：国风海报的完整设计说明，保留原文件内容。
 - `README.md`：本项目的中文介绍与使用方式。
+- `assets/examples/`：四组原图与海报效果图。
 
 本 Skill 提供设计指导，需要配合具备图片生成或编辑能力的工具使用。主体保真程度和文字呈现取决于所使用的工具，成图后请核对。
