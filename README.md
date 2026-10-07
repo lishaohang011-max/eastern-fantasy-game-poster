@@ -1,6 +1,6 @@
-# 裁霞入笺 · Codex Skill
+# 国风海报 · Codex Skill
 
-**裁霞入笺（Caixia Rujian）**，项目标识 **`caixia-rujian`**：用于国风游戏概念海报设计的 Codex Skill。
+**国风海报（Eastern Fantasy Game Poster）**，项目标识 **`eastern-fantasy-game-poster`**：用于国风游戏概念海报设计的 Codex Skill。
 
 把你的原图做成东方幻想游戏概念海报：尽量保留画面主体与构图，加入书法标题、极简英文、小型印章与专业信息排版。
 
@@ -80,13 +80,13 @@
 
 在具备图片生成或编辑工具的 Codex 环境中加载本 Skill，上传你的原始图片，然后说明：
 
-> 使用 $caixia-rujian，把这张图片做成国风游戏概念海报。尽量保留主体和构图，根据画面创作标题与排版。
+> 使用 $eastern-fantasy-game-poster，把这张图片做成国风游戏概念海报。尽量保留主体和构图，根据画面创作标题与排版。
 
 本 Skill 提供设计指引，不自带图片模型。也可以把 `SKILL.md` 的内容作为设计说明，连同原图交给支持图片编辑的工具。
 
 ## 文件说明
 
-- `SKILL.md`：裁霞入笺的设计说明与触发条件。
+- `SKILL.md`：国风海报的设计说明与触发条件。
 - `agents/openai.yaml`：Codex 中的展示名称与示例指令。
 - `README.md`：本项目的中文介绍与使用方式。
 - `assets/examples/`：四组原图与海报效果图。
@@ -95,6 +95,6 @@
 
 ## 名称说明
 
-中文项目名：**裁霞入笺**；英文名称：**Caixia Rujian**；Skill 标识：**`caixia-rujian`**。
+中文项目名：**国风海报**；英文名称：**Eastern Fantasy Game Poster**；Skill 标识：**`eastern-fantasy-game-poster`**。
 
-名字取意：裁云霞之色，入一纸素笺。用于保留原图主体的国风海报设计。
+用于保留原图主体的国风海报设计。

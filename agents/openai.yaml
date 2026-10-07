@@ -1,4 +1,4 @@
 interface:
-  display_name: "裁霞入笺 · Codex Skill"
+  display_name: "国风海报 · Codex Skill"
   short_description: "保留原图主体，为东方幻想、武侠与修仙场景设计书法标题和国风海报排版"
-  default_prompt: "使用 $caixia-rujian，将我上传的原图做成国风游戏概念海报，尽量保留主体与构图，设计书法标题、调色和信息排版。"
+  default_prompt: "使用 $eastern-fantasy-game-poster，将我上传的原图做成国风游戏概念海报，尽量保留主体与构图，设计书法标题、调色和信息排版。"
