@@ -1,7 +1,11 @@
 ---
-name: eastern-fantasy-game-poster
-description: Use when an uploaded original image needs an Eastern fantasy, wuxia, cultivation, or AAA game concept-poster layout while preserving the source content.
+name: quemo-yingjing
+description: 阙墨映境（Quemo Yingjing）—在 Codex 中为用户上传的原图设计东方幻想、武侠或修仙游戏概念海报，尽量保留原图主体与构图，加入书法标题、电影感调色与信息排版。适用于已有原图的海报设计，需配合图片生成或编辑工具。
 ---
+
+# 阙墨映境 · Codex Skill
+
+项目标识：`quemo-yingjing`。用于已有原图的国风海报设计；先确认当前环境具备图片生成或编辑能力，再按以下要求处理。若缺少图片工具，提供可用于编辑的设计说明，不声称已经生成图片。
 
 基于我上传的原始图片进行高级游戏概念海报视觉排版设计。
 
